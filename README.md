@@ -1,4 +1,5 @@
 # Heart Disease Predictor Project
+
 This project aims to develop a comprehensive data pipeline to predict heart disease using machine learning techniques.
 The goal is to collect, process, and analyze heart disease data to build a predictive model that can provide actionable insights for healthcare providers.
 This project is driven by the need to support early identification of individuals at risk, enabling timely interventions and improving patient outcomes.
@@ -9,14 +10,16 @@ The project involves multiple stages including data collection from the UCI Hear
 The successful implementation of this model could revolutionize the preventive approach to heart disease by providing a reliable method for early detection.
 
 ## Table of Contents
-[Authors](#Authors)
+[Authors](#Contributor)
 [Technologies](#Technologies)
 
-## Authors/Contributors
+## Contributors
+
 - Michael Kalajian
 - Steven Quintana
 
 ## Technologies
+
 - Python
 - Pandas
 - Pandas DataFrames
