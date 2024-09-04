@@ -9,10 +9,6 @@ This will assist healthcare professionals in making informed decisions about pat
 The project involves multiple stages including data collection from the UCI Heart Disease dataset, data preprocessing, feature engineering, model selection and training, hyperparameter tuning, and model evaluation.
 The successful implementation of this model could revolutionize the preventive approach to heart disease by providing a reliable method for early detection.
 
-## Table of Contents
-[Authors](#Contributor)
-[Technologies](#Technologies)
-
 ## Contributors
 
 - Michael Kalajian
